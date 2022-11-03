@@ -1,7 +1,9 @@
 #include <iostream>
-using namespace std
+using namespace std;
 int main()
 {
-	cout << "Hello, Git!!!";
+	int x;
+	x = 1 + 1;
+	cout<<x;
 	return 0;
 }
