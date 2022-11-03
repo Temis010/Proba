@@ -4,8 +4,8 @@ int main()
 {
 	int x;
 	float  a, b;
-	a = 2;
-	b = 3;
+	a = 4;
+	b = 7;
 	x = 1 + 1;
 	double y = a / b;
 	cout << x << endl;
